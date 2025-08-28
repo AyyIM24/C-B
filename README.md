@@ -1,7 +1,7 @@
 # C&B
 E-COMMERCE WEBSITE FOR MULTI CATEGORY &amp; AFFORDABLE PRODUCTS. 
 <br>
-<u>Members:</u>
+<u>MEMBERS:</u>
 <br>
 1.DRISHTI PRAMOD MORE
 <br>
@@ -12,8 +12,9 @@ E-COMMERCE WEBSITE FOR MULTI CATEGORY &amp; AFFORDABLE PRODUCTS.
 <br>
 <u>TECH USED:</u>
 <br>
-FRONTEND:1.HTML<br>
-         2.CSS<br>
-         3.JS<br>
+FRONTEND:<br>
+1.HTML<br>
+2.CSS<br>
+3.JS<br>
 BACKEND: JAVA<br>
 DATABASE:MySQL
